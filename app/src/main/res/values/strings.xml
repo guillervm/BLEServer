@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BLE Server</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="server_state">Server state</string>
+    <string name="server_prepared">The server is ready to start</string>
+    <string name="unable_to_start_server">Unable to start the server</string>
+    <string name="failure_start_advertising">Cannot start advertising</string>
+    <string name="success_start_advertising">Advertising...</string>
+    <string name="stop_advertising">Advertising stopped</string>
+    <string name="label_number_connections">Number of connections:</string>
+    <string name="label_last_device">Last device:</string>
+
+</resources>

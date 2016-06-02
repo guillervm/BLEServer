@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/guillervm/Dropbox/workspace_boletus/BLEServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/guillervm/Dropbox/workspace_boletus/BLEServer/app/build/intermediates/pre-dexed/debug/classes-6f83b8434a2c1a1e4bc17669768298de34d6cd14.jar" />
+    </item>
+    <item
+        jar="/Users/guillervm/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/guillervm/Dropbox/workspace_boletus/BLEServer/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-a9d35f5ba271d46e5d144380cd82628cfbf3be35.jar" />
+    </item>
+    <item
+        jar="/Users/guillervm/Dropbox/workspace_boletus/BLEServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/guillervm/Dropbox/workspace_boletus/BLEServer/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f4e3b2cb66e1877b37eb3dea44d9cf588c9bbfdc.jar" />
+    </item>
+    <item
+        jar="/Users/guillervm/Dropbox/workspace_boletus/BLEServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/guillervm/Dropbox/workspace_boletus/BLEServer/app/build/intermediates/pre-dexed/debug/classes-4cf9f86b7b5ebe76d7dd7ef689e37760da9daf78.jar" />
+    </item>
+
+</items>
